@@ -42,7 +42,7 @@ const Search = () => {
             })
           }
         >
-          OK
+          Search
         </button>
       </div>
       {data &&
